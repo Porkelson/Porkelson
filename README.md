@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Olek! 👋
 
-<!--
-**Porkelson/Porkelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Applied Computer Science** student at AGH, always exploring new tech and building interesting projects. My focus is on creating clean, efficient code while solving real-world problems. Currently, I'm diving into **full-stack development**, learning **React Native**, and mastering **TypeScript**.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, Python, C++
+- **Frontend**: React, React Native
+- **Backend**: Flask, Node.js
+- **Databases**: PostgreSQL, SQL
+- **Tools**: Git, Figma, MATLAB
+
+## 🚀 Current Focus
+
+I'm currently working on side projects to expand my skillset, from **web apps** to **mobile development** and **UI/UX design**. I love experimenting with new technologies, optimizing performance, and creating beautiful, intuitive UIs.
+
+## 📚 What's Next
+
+- Continue learning **full-stack** development with **React** & **TypeScript**
+- Dive deeper into **UI/UX design** and **mobile development** with **React Native**
+
+## 🤝 Let's Connect
+
+Feel free to reach out if you'd like to collaborate, share ideas, or chat about tech. I'm always excited to connect with fellow developers and learners.
+
+> _"Keep coding, keep creating."_
