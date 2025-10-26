@@ -1,26 +1,17 @@
-# Hi, I'm Olek! 👋
+# Hello there
 
-Welcome to my GitHub! I'm a passionate **Applied Computer Science** student at AGH, always exploring new tech and building interesting projects. My focus is on creating clean, efficient code while solving real-world problems. Currently, I'm diving into **full-stack development**, learning **React Native**, and mastering **TypeScript**.
+Welcome to my GitHub. I am an **Applied Computer Science student at AGH University of Science and Technology**, with a focus on **frontend development** and **quality assurance**.  
+My goal is to build maintainable, performant, and visually consistent web applications while ensuring their reliability through both **manual** and **automated testing**.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
-- **Languages**: JavaScript, Python, C++
-- **Frontend**: React, React Native, Material UI (MUI)
-- **Backend**: Flask, Node.js
-- **Databases**: PostgreSQL, SQL
-- **Tools**: Git, Figma, MATLAB
+- **Languages:** JavaScript, Python, C++  
+- **Frontend:** React, TypeScript, CSS, HTML  
+- **Backend:** Flask, Node.js  
+- **Databases:** PostgreSQL, SQL  
+- **Testing:** Playwright, Manual testing  
 
-## 🚀 Current Focus
+## Current Focus
 
-I'm currently working on side projects to expand my skillset, from **web apps** to **mobile development** and **UI/UX design**. I love experimenting with new technologies, optimizing performance, and creating beautiful, intuitive UIs.
-
-## 📚 What's Next
-
-- Continue learning **full-stack** development with **React** & **TypeScript**
-- Dive deeper into **UI/UX design** and **mobile development** with **React Native**
-
-## 🤝 Let's Connect
-
-Feel free to reach out if you'd like to collaborate, share ideas, or chat about tech. I'm always excited to connect with fellow developers and learners.
-
-> _"Keep coding, keep creating."_
+I am currently working on my engineering thesis, which explores **procedural generation techniques in Unreal Engine**.  
+Alongside that, I continue developing my frontend and testing skills through personal projects and hands-on experimentation with modern web technologies.
