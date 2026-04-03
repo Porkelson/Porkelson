@@ -1,17 +1,27 @@
 # Hello there
 
-Welcome to my GitHub. I am an **Applied Computer Science student at AGH University of Science and Technology**, with a focus on **frontend development** and **quality assurance**.  
-My goal is to build maintainable, performant, and visually consistent web applications while ensuring their reliability through both **manual** and **automated testing**.
+Welcome to my GitHub. I am a **Junior QA Engineer and Applied Computer Science student at AGH University of Science and Technology**, focused on **test automation** and **frontend-aware quality engineering**.  
+I combine development knowledge with testing practices to build reliable, maintainable, and well-tested web applications.
 
 ## Technologies & Tools
 
 - **Languages:** JavaScript, Python, C++  
-- **Frontend:** React, TypeScript, CSS, HTML  
-- **Backend:** Flask, Node.js  
+- **Frontend:** React, TypeScript, HTML, CSS  
+- **Backend:** Node.js, Flask  
 - **Databases:** PostgreSQL, SQL  
-- **Testing:** Playwright, Manual testing  
+- **Testing & QA:** Playwright, Postman, Manual testing, API testing  
+- **Other:** Git, DataGrip, basic CI/CD concepts  
 
 ## Current Focus
 
-I am currently working on my engineering thesis, which explores **procedural generation techniques in Unreal Engine**.  
-Alongside that, I continue developing my frontend and testing skills through personal projects and hands-on experimentation with modern web technologies.
+- Advancing in **test automation (Playwright)** with a focus on scalable and maintainable test architecture  
+- Strengthening **API testing and integration testing** practices  
+- Leveraging **frontend knowledge (React)** to design more effective test scenarios  
+- Working on my engineering thesis on **procedural generation in Unreal Engine**
+
+## Approach
+
+I focus on:
+- writing **clear and maintainable test cases**
+- identifying **edge cases and real-world failure scenarios**
+- bridging the gap between **development and QA**
